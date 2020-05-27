@@ -1,1 +1,1 @@
-Este programa implementará el operador de diferencia o resta
+Este programa implementaá el operador de diferencia o resta
